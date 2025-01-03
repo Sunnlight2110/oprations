@@ -1,0 +1,19 @@
+List:   List are collection of data of same or difftrent data types.
+        Annoted by []
+ex. :-  [1,2,3.4,5,'a','Techcronus',['1',2,'g']]
+
+tuples: Tuples are collection of data of same or diffrent datatypes. tuples are immutable i.e. cannot be changed.
+        Annoted by ()
+ex. :-  (1,2,3.4,5,'a','Techcronus',['1',2,'g'])
+
+set:    Set are collection of data of unique values and same or diffrent datatypes. sets are immutable i.e. cannot be changed.
+        Annoted by {}
+ex. :-  {1,2,3.4,5,'a','Techcronus'}
+
+dict:   Dicts are collection of data in form of key-value pairs.
+        Annoted by {}
+ex. :-  {'company':'Techcronus','name':'Himanshu'}
+
+array:  array:  Arrays are collection of data of same data type.
+        Annoted by array.array()
+        ex. :- array.array('i',[1,2,3,4,5])
